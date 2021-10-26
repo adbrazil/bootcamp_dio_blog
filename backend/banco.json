@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Joao",
+      "mensagem": "Seja Bem vindo ao  nosso Blog"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "mensagem": "Este blog é muito legal"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "mensagem": "Primeira postagem"
+    },
+    {
+      "nome": "Pedro",
+      "mensagem": "Nova mensagem",
+      "id": 4
+    }
+  ],
+  "contatos": [
+    
+  ]
+}
